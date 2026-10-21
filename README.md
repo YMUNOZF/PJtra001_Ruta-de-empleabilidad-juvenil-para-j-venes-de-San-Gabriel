@@ -8,7 +8,7 @@ Implementar durante 24 meses una ruta piloto de empleabilidad para jóvenes de 1
 
 ## Equipo y responsabilidades
 - Jazmín Prieto Solano: Coordinación y seguimiento de proyecto.
-- Gennifer Sierra Rodríguez: Convocatoria y orientación Laboral
+- Gennifer Sierra Rodríguez: Convocatoria y orientación laboral.
 - Lady Marcela Pérez Castañeda: Coordinadora de Comunicaciones
 - Yency Muñoz Foronda: Coordinadora Financiera
 
