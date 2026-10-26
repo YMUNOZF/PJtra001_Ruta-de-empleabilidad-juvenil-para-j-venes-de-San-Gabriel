@@ -7,10 +7,10 @@ El propósito del proyecto EmpleaJoven San Gabriel es diseñar e implementar una
 Implementar durante 24 meses una ruta piloto de empleabilidad para jóvenes de 18 a 28 años en San Gabriel, mediante orientación laboral, fortalecimiento de competencias, articulación con instituciones y empleadores, y seguimiento de resultados para evaluar su viabilidad y sostenibilidad.
 
 ## Equipo y responsabilidades
-- Jazmín Prieto Solano: Coordinación y seguimiento de proyecto.
-- Gennifer Sierra Rodríguez: Convocatoria y orientación laboral.
-- Lady Marcela Pérez Castañeda: Formación e intermediación laboral.
-- Yency Muñoz Foronda: Monitoreo y evaluación de resultados.
+- Jazmín Prieto Solano: Coordinación del proyecto y articulación institucional.
+- Gennifer Sierra Rodríguez: Convocatoria, caracterización y orientación laboral. 
+- Lady Marcela Pérez Castañeda: Formación e intermediación laboral. 
+- Yency Muñoz Foronda: Seguimiento, evaluación y gestión documental. 
 
   ## Organización de documentos
   - `01_formulacion/`: ficha del proyecto y documentos de alcance.
