@@ -89,6 +89,6 @@ Este repositorio es público. No publiques fichas con nombres, documentos de ide
 
 - [README principal](../README.md)
 - [Formulación del proyecto](../01_Formulacion/README.md)
-- [Documentación de actividades ACT-01 a ACT-11](../DOCUMENTACION_ACTIVIDADES.md)
+- [Documentación de actividades ACT-01 a ACT-11](../03_Seguimiento/DOCUMENTACION_ACTIVIDADES.md)
 - [Carpeta de seguimiento](../03_Seguimiento/)
 
