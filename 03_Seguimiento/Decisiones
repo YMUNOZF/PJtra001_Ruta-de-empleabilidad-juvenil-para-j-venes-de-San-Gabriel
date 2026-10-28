@@ -1,8 +1,94 @@
-# Registro de decisiones 
+# Registro de decisiones del proyecto
 
-## DEC-01 | Organización inicial del repositorio
-- Responsable de coordinació: Jazmin
-- Acuerdo: las actividades se gestionan mediante Issues y GitHub Projects
-- Criterio: solo se publicarán documentos y evidencias sin datos personales
-- Estado: decisión de configuración tomada durante esta demostración
-- Relación ACT-01 y ACT-03
+**Proyecto:** PJtra001 — Conecta Joven: oportunidades para el empleo  
+**Ubicación:** `03_Seguimiento/Decisiones`  
+**Propósito:** dejar trazabilidad de los criterios y acuerdos que orientan la gestión del proyecto y del repositorio.
+
+> **Nota de trazabilidad:** este registro se reconstruyó a partir de la formulación, la documentación de actividades y la estructura actual del repositorio. No reemplaza actas de reuniones ni constituye prueba de aprobación formal por parte del equipo. Los puntos identificados como criterios de gestión deben validarse con el equipo cuando corresponda. San Gabriel es ficticio y los datos o resultados simulados deben identificarse como tales.
+
+## DEC-01 | Organización y gestión del repositorio
+
+- **Tema:** organización documental y seguimiento de actividades.
+- **Criterio registrado:** utilizar el repositorio como espacio de referencia para la formulación, los entregables autorizados y la documentación de seguimiento.
+- **Aplicación:** la página principal orienta la navegación; `01_Formulacion/` conserva los documentos de formulación; `02_Evidencias/` organiza la matriz de entregables y los soportes autorizados; `03_Seguimiento/` contiene documentación operativa, decisiones y registros de avance.
+- **Estado:** aplicado en la estructura documental del repositorio.
+- **Relación:** todas las actividades.
+
+## DEC-02 | Gestión de actividades mediante Issues
+
+- **Tema:** trazabilidad de la ejecución.
+- **Criterio registrado:** gestionar las once actividades ACT-01 a ACT-11 mediante sus Issues de GitHub y utilizar GitHub Projects como vista de planificación y seguimiento cuando esté configurado.
+- **Aplicación:** cada Issue debe conservar la descripción de la actividad, responsable funcional, entregable esperado, dependencias, avances, bloqueos y criterio de cierre.
+- **Estado:** estructura de Issues creada; el estado y el avance real de cada actividad deben actualizarse conforme a la evidencia disponible.
+- **Relación:** ACT-01 a ACT-11.
+
+## DEC-03 | Verificación de entregables antes del cierre
+
+- **Tema:** calidad y control de ejecución.
+- **Criterio de gestión:** no considerar una actividad terminada únicamente porque su Issue cambie de estado. Antes del cierre, revisar el entregable y su evidencia, registrar pendientes o limitaciones y vincular los soportes pertinentes.
+- **Aplicación:** utilizar la matriz de `02_Evidencias/README.md` y el criterio de cierre de cada Issue.
+- **Estado:** criterio documentado; su aplicación debe verificarse actividad por actividad.
+- **Relación:** ACT-01 a ACT-11, especialmente ACT-10 y ACT-11.
+
+## DEC-04 | Protección de datos y publicación de evidencias
+
+- **Tema:** privacidad y manejo responsable de información.
+- **Criterio de gestión:** no publicar en el repositorio público datos personales identificables, fichas individuales, documentos de identidad, datos de contacto ni información reservada de participantes.
+- **Aplicación:** utilizar soportes anonimizados o agregados cuando sean suficientes para demostrar el trabajo. Mantener los documentos restringidos en espacios autorizados y, cuando sea necesario, incluir en GitHub únicamente una referencia no sensible.
+- **Estado:** criterio documentado para la gestión de evidencias.
+- **Relación:** especialmente ACT-03 a ACT-09 y cualquier actividad que maneje información de participantes.
+
+## DEC-05 | Diferenciación entre formulación, resultados esperados y resultados verificados
+
+- **Tema:** integridad de la información del proyecto.
+- **Criterio registrado:** distinguir los objetivos y resultados previstos en la formulación de los productos efectivamente elaborados y de los resultados que cuenten con evidencia verificable.
+- **Aplicación:** identificar expresamente los ejemplos, registros y resultados simulados; no presentarlos como hechos reales. San Gabriel es un municipio ficticio utilizado para el ejercicio académico.
+- **Estado:** criterio incorporado en la documentación del repositorio.
+- **Relación:** todas las actividades, especialmente ACT-04 a ACT-11.
+
+## DEC-06 | Coherencia con los documentos de formulación aprobados
+
+- **Tema:** consistencia técnica del proyecto.
+- **Criterio de gestión:** las metas cuantitativas, los indicadores, el cronograma detallado y los costos deben tomarse de la versión aprobada del Project Model Canvas y de los requisitos aplicables al ejercicio. No completar información faltante mediante supuestos.
+- **Aplicación:** consultar los documentos en `01_Formulacion/` antes de modificar metas, indicadores, plazos o costos.
+- **Estado:** criterio documentado; las cifras y definiciones específicas deben validarse directamente en los documentos fuente.
+- **Relación:** ACT-03, ACT-10 y ACT-11, además de la planificación general.
+
+## DEC-07 | Responsabilidades funcionales y dependencias
+
+- **Tema:** coordinación del trabajo.
+- **Criterio registrado:** mantener consistentes los responsables funcionales y las dependencias de las actividades entre la documentación consolidada, la matriz de entregables y los Issues.
+- **Distribución funcional documentada:**
+  - **Jazmín Prieto Solano:** coordinación del proyecto y articulación institucional; responsable funcional de ACT-01, ACT-02 y ACT-10.
+  - **Gennifer Sierra Rodríguez:** convocatoria, caracterización y orientación laboral; responsable funcional de ACT-04, ACT-05 y ACT-06.
+  - **Lady Marcela Pérez Castañeda:** formación e intermediación laboral; responsable funcional de ACT-07, ACT-08 y ACT-09.
+  - **Yency Muñoz Foronda:** seguimiento, evaluación y gestión documental; responsable funcional de ACT-03 y ACT-11.
+- **Dependencias principales:** ACT-02 depende de ACT-01; ACT-03 depende de ACT-02; ACT-05 depende de ACT-04; ACT-06 y ACT-07 dependen de ACT-05; ACT-08 depende de ACT-06 y ACT-07; ACT-09 depende de ACT-08. ACT-10 es transversal y ACT-11 requiere insumos de seguimiento y resultados documentados.
+- **Estado:** distribución y dependencias registradas en la documentación del proyecto; confirmar con el equipo cualquier cambio de responsabilidad.
+- **Relación:** ACT-01 a ACT-11.
+
+## DEC-08 | Organización y referencia de evidencias
+
+- **Tema:** localización de productos y soportes.
+- **Criterio de gestión:** conservar en `02_Evidencias/` la matriz de entregables y los soportes autorizados que existan. Se recomienda organizar los archivos por código ACT-01 a ACT-11 y vincularlos desde el Issue correspondiente.
+- **Aplicación:** nombrar los archivos de forma descriptiva e incluir fecha o versión solo cuando corresponda a información real. Crear carpetas por actividad cuando se incorporen soportes; no crear evidencias ficticias para llenar la estructura.
+- **Estado:** matriz y orientación de organización documentadas; la incorporación de evidencias se realiza conforme estén disponibles.
+- **Relación:** ACT-01 a ACT-11.
+
+## Cómo registrar nuevas decisiones
+
+Añadir una entrada nueva cuando una decisión cambie el alcance, las responsabilidades, las dependencias, los criterios de calidad, el cronograma o la forma de gestionar la información.
+
+Usar esta estructura:
+
+- **Código:** DEC-XX.
+- **Fecha:** fecha real de la decisión, si se conoce.
+- **Tema:** asunto sobre el que se decide.
+- **Decisión o acuerdo:** formulación clara y concreta.
+- **Justificación:** motivo o necesidad que la origina.
+- **Responsable de seguimiento:** persona encargada de verificar su aplicación.
+- **Estado:** propuesta, pendiente de validación, acordada, en implementación o cerrada.
+- **Relación:** actividades, entregables o documentos afectados.
+- **Soporte:** enlace a acta, comentario del Issue u otro registro disponible.
+
+No atribuir una aprobación al equipo ni registrar fechas, reuniones o acuerdos que no estén respaldados por una fuente verificable.
