@@ -56,7 +56,7 @@ La participación en la ruta no garantiza que todas las personas participantes o
 ## 6. Relación con el resto del repositorio
 
 - [Página principal del proyecto](../README.md): visión general, alcance y responsabilidades del equipo.
-- [Documentación de actividades](../DOCUMENTACION_ACTIVIDADES.md): descripción de ACT-01 a ACT-11, dependencias y criterios de cierre.
+- [Documentación de actividades](../03_Seguimiento/DOCUMENTACION_ACTIVIDADES.md): descripción de ACT-01 a ACT-11, dependencias y criterios de cierre.
 - [Entregables y evidencias](../02_Evidencias/README.md): matriz de productos esperados y enlaces a los Issues.
 - [Seguimiento](../03_Seguimiento/): decisiones, riesgos, ajustes y reportes de avance.
 
