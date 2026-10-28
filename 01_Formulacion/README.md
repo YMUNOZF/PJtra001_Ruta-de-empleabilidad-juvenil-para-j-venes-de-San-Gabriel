@@ -2,7 +2,7 @@
 
 ## Entregables del diagnóstico y análisis de datos — Parte A
 
-- Base analítica de 479 registros `01_Formulacion/06_PJtra001_SG03_HD01_Base_479_sintetica.xlsx`
+[Base analítica de 479 registros](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/blob/main/01_Formulacion/06_PJtra001_SG03_HD01_Base_479_sintetica.xlsx)
 - Informe descriptivo de la encuesta `01_Formulacion/07_PJtra001_SG03_HD02_Informe_descriptivo.pdf`
 - Libro de tablas y gráficos `01_Formulacion/08_PJtra001_SG03_HD02_Tablas_y_graficas_completa.xlsx`
 - Matriz de evidencias del diagnóstico `01_Formulacion/09_PJtra001_Matriz_Evidencias_San_Gabriel.docx`
