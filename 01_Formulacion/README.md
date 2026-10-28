@@ -3,7 +3,6 @@
 ## Entregables del diagnóstico y análisis de datos — Parte A
 
 - Base analítica de 479 registros `01_Formulacion/06_PJtra001_SG03_HD01_Base_479_sintetica.xlsx`
-- Registro de preparación y trazabilidad de la base 
 - Informe descriptivo de la encuesta
 - Libro de tablas y gráficos
 - Matriz de evidencias del diagnóstico 
