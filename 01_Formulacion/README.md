@@ -64,12 +64,12 @@ Las metas cuantitativas, los indicadores, el cronograma detallado y los costos d
 
 ## 9. Documentos de referencia
 
-[Diagnóstico validado de San Gabriel.]()
+[Diagnóstico validado de San Gabriel](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/blob/main/01_Formulacion/PJtra001_Validacion_geografica_poblacional_documental_San_Gabriel.pdf)
 
-[SG-05: requisitos de la convocatoria simulada.]()
+[Caracterización Laboral y de Oportunidades para Jovenes](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/blob/main/01_Formulacion/PJtra001_Caracterizaci%C3%B3n%20laboral.pdf)
 
-[Project Model Canvas 1.0 aprobado.]()
+[Project Model Canvas 1.0 aprobado](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/blob/main/01_Formulacion/PJtra001_Project_Model_Canvas_San_Gabriel_aprobado.pdf)
 
-[Matriz de evidencias del diagnóstico.]()
+[Infome descriptivo](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/blob/main/01_Formulacion/PJtra001_SG03_HD02_Informe_descriptivo.pdf)
 
 [Ficha de preparación](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/blob/main/01_Formulacion/SG_PJtra001_Ficha_GitHub.pdf)
