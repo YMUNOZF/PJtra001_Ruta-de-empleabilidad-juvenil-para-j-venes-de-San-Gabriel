@@ -1,4 +1,4 @@
-## Documento de control para organizar los productos, registrar su estado y pegar los enlaces de entrega. 
+## Documento de control para organizar los productos.
 
 ## Entregables del diagnóstico y análisis de datos — Parte A
 
