@@ -9,7 +9,7 @@
 - Ficha de fuentes documentales `01_Formulacion/15_PJtra001_Ficha_Fuentes_Documentales_DANE_ECV_2025.docx`
 - Validación geográfica, poblacional y documental `01_Formulacion/14_PJtra001_Validacion_geografica_poblacional_documental_San_Gabriel.docx`
 
-## Entregables de asistentes y formulación — Parte 
+## Entregables de asistentes y formulación — Parte B
 
 - Configuración Asistente 1 — Diagnóstico 
 - Ejecución real del Asistente 1 
