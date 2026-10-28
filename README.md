@@ -23,7 +23,7 @@ Implementar durante 24 meses una ruta piloto de empleabilidad para jóvenes de 1
 
 | Recurso | Para qué sirve |
 |---|---|
-| [Documentación de actividades](DOCUMENTACION_ACTIVIDADES.md) | Descripción consolidada de ACT-01 a ACT-11, responsables, entregables, dependencias y criterios de cierre. |
+| [Documentación de actividades](03_Seguimiento/DOCUMENTACION_ACTIVIDADES.md) | Descripción consolidada de ACT-01 a ACT-11, responsables, entregables, dependencias y criterios de cierre. |
 | [Formulación del proyecto](01_Formulacion/README.md) | Problema identificado, objetivo, población objetivo, componentes, resultados esperados y documentos de referencia. |
 | [Entregables por actividad](02_Evidencias/README.md) | Matriz de entregables con enlaces a los Issues de GitHub asociados. |
 | [Evidencias](02_Evidencias/) | Productos y soportes autorizados que existan para las actividades. |
@@ -33,7 +33,7 @@ Implementar durante 24 meses una ruta piloto de empleabilidad para jóvenes de 1
 
 Cada actividad se gestiona mediante un **Issue de GitHub** y puede visualizarse en GitHub Projects. Los Issues registran la descripción, responsable funcional, prioridad, dependencias, entregable esperado, avances y criterio de cierre.
 
-Para consultar todas las actividades, empieza por la [matriz de entregables y enlaces a los Issues](02_Evidencias/README.md) o por la [documentación consolidada de actividades](DOCUMENTACION_ACTIVIDADES.md).
+Para consultar todas las actividades, empieza por la [matriz de entregables y enlaces a los Issues](02_Evidencias/README.md) o por la [documentación consolidada de actividades](03_Seguimiento/DOCUMENTACION_ACTIVIDADES.md).
 
 ### Criterio de cierre
 
