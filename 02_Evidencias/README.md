@@ -1,3 +1,7 @@
+## Entregables por actividad
+
+
+
 | Código del proyecto | Nombre | Responsable | Entregable |
 |---|---|---|---|
 | [ACT-01](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/issues/3) | Identificar y vincular aliados de formación y empleo | Jazmín Prieto Solano | Mapa de aliados y acuerdos de articulación |
