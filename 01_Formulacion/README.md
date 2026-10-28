@@ -1,75 +1,69 @@
 # Formulación del proyecto
 
-## 1. Problema identificado
+Esta carpeta reúne los documentos de referencia utilizados para formular el proyecto **PJtra001 — Conecta Joven: oportunidades para el empleo**, una ruta piloto de empleabilidad juvenil para el municipio ficticio de San Gabriel.
 
-Los jóvenes de 18 a 28 años de San Gabriel enfrentan barreras para acceder a oportunidades laborales, relacionadas con la falta de experiencia, la poca articulación entre la formación y la demanda laboral, y las dificultades para acceder a información y servicios de empleo.
+## 1. Resumen de la formulación
 
-## 2. Objetivo general
+**Objetivo general:** facilitar el acceso de jóvenes de 18 a 28 años a oportunidades laborales mediante una ruta piloto que articule orientación ocupacional, fortalecimiento de competencias, acompañamiento en la búsqueda de empleo y conexión con instituciones de formación, servicios de empleo y empleadores.
 
-Facilitar el acceso de jóvenes de 18 a 28 años a oportunidades laborales mediante una ruta piloto de empleabilidad que articule orientación ocupacional, fortalecimiento de competencias, acompañamiento en la búsqueda de empleo y conexión con instituciones de formación, servicios de empleo y empleadores.
+**Población objetivo:** jóvenes de 18 a 28 años de San Gabriel que enfrentan barreras de acceso al mercado laboral.
 
-## 3. Población objetivo
+**Duración prevista:** 24 meses.
 
-Jóvenes entre 18 y 28 años del municipio ficticio de San Gabriel que enfrentan barreras de acceso al mercado laboral.
+**Problema abordado:** barreras para acceder al empleo asociadas, entre otros factores, a la falta de experiencia, la articulación limitada entre formación y demanda laboral y las dificultades para acceder a información y servicios de empleo.
 
-## 4. Componentes de la intervención
+> **Nota sobre el ejercicio académico:** San Gabriel es un municipio ficticio. Los resultados incluidos en la formulación son resultados esperados, no logros comprobados. Los datos y las actividades simuladas deben identificarse expresamente como tales.
 
-Articulación institucional: identificación y vinculación de aliados de formación y empleo.
+## 2. Componentes de la intervención
 
-Preparación de la ruta: definición de criterios de ingreso, rutas diferenciadas e instrumentos de seguimiento.
+1. **Articulación institucional:** identificación y vinculación de aliados de formación y empleo.
+2. **Preparación de la ruta:** definición de criterios de ingreso, rutas diferenciadas e instrumentos de seguimiento.
+3. **Convocatoria y caracterización:** difusión de la convocatoria, inscripción de jóvenes e identificación de necesidades.
+4. **Orientación y formación:** orientación ocupacional y fortalecimiento de competencias según los perfiles identificados.
+5. **Intermediación laboral:** identificación de oportunidades, conexión con empleadores y acompañamiento en postulaciones y remisiones.
+6. **Seguimiento y cierre:** monitoreo de avances, identificación de riesgos, evaluación del piloto y recomendaciones de continuidad.
 
-Convocatoria y caracterización: difusión de la convocatoria, inscripción de jóvenes e identificación de sus necesidades.
+## 3. Documentos disponibles
 
-Orientación y formación: orientación ocupacional y fortalecimiento de competencias según los perfiles identificados.
+| Documento | Uso dentro del proyecto |
+|---|---|
+| [Validación geográfica, poblacional y documental de San Gabriel](PJtra001_Validacion_geografica_poblacional_documental_San_Gabriel.pdf) | Consultar el sustento territorial, poblacional y documental del ejercicio. |
+| [Caracterización laboral](PJtra001_Caracterización%20laboral.pdf) | Consultar la caracterización laboral y las oportunidades relacionadas con la población objetivo. |
+| [Project Model Canvas aprobado](PJtra001_Project_Model_Canvas_San_Gabriel_aprobado.pdf) | Referencia para contrastar el modelo del proyecto y sus definiciones aprobadas. |
+| [Informe descriptivo SG03-HD02](PJtra001_SG03_HD02_Informe_descriptivo.pdf) | Consultar el informe descriptivo asociado al ejercicio. |
+| [Ficha de preparación para GitHub](SG_PJtra001_Ficha_GitHub.pdf) | Consultar la ficha relacionada con la organización y gestión del proyecto en GitHub. |
 
-Intermediación laboral: gestión de oportunidades, conexión con empleadores y acompañamiento en postulaciones y remisiones.
+Los títulos anteriores describen la función prevista de cada archivo según su nombre y la estructura del repositorio. Para validar cifras, metas, indicadores, presupuesto, cronograma y contenido específico, debe consultarse el documento fuente correspondiente; este índice no reemplaza su revisión.
 
-Seguimiento y cierre: monitoreo de avances, identificación de riesgos, evaluación del piloto y recomendaciones de continuidad.
+## 4. Resultados esperados
 
-## 5. Resultados esperados
+- Aliados institucionales identificados y gestiones de articulación documentadas.
+- Criterios de ingreso y rutas diferenciadas definidos.
+- Jóvenes caracterizados y orientados de acuerdo con sus necesidades.
+- Acciones de orientación y formación documentadas.
+- Oportunidades laborales y gestiones de intermediación registradas.
+- Información de seguimiento consolidada para analizar la implementación.
+- Recomendaciones formuladas para la continuidad y posible ampliación del piloto.
 
-Aliados institucionales identificados y mecanismos de articulación documentados.
+Estos resultados son expectativas de la formulación. Su cumplimiento solo podrá afirmarse cuando exista información y evidencia verificable.
 
-Criterios de ingreso y rutas de atención diferenciadas definidos.
+## 5. Seguimiento y evaluación
 
-Jóvenes caracterizados y orientados según sus necesidades.
+El seguimiento debe permitir revisar el avance de las actividades, la producción de entregables, la participación, los servicios prestados, las gestiones de intermediación, las dificultades y los ajustes realizados. La evaluación deberá contrastar los resultados documentados con los objetivos y los indicadores definidos en la versión aprobada del proyecto.
 
-Acciones de orientación y formación documentadas.
+La participación en la ruta no garantiza que todas las personas participantes obtengan empleo. Las metas cuantitativas, los indicadores, el cronograma detallado y los costos deben verificarse en los documentos aprobados y en los requisitos de la convocatoria simulada SG-05; no deben completarse con supuestos.
 
-Oportunidades y gestiones de intermediación laboral registradas.
+## 6. Relación con el resto del repositorio
 
-Información de seguimiento consolidada para evaluar la implementación.
+- [Página principal del proyecto](../README.md): visión general, alcance y responsabilidades del equipo.
+- [Documentación de actividades](../DOCUMENTACION_ACTIVIDADES.md): descripción de ACT-01 a ACT-11, dependencias y criterios de cierre.
+- [Entregables y evidencias](../02_Evidencias/README.md): matriz de productos esperados y enlaces a los Issues.
+- [Seguimiento](../03_Seguimiento/): decisiones, riesgos, ajustes y reportes de avance.
 
-Recomendaciones formuladas para la sostenibilidad y posible ampliación del piloto.
+## 7. Control y uso de documentos
 
-## 6. Estrategia de implementación
+- Consultar la versión aprobada antes de registrar metas, indicadores, plazos o costos.
+- No reemplazar documentos aprobados sin comprobar los cambios y conservar la trazabilidad de versiones.
+- Diferenciar claramente la formulación, los resultados esperados y los resultados efectivamente verificados.
+- No publicar información personal identificable ni documentos reservados en el repositorio público.
 
-La intervención se desarrollará durante 24 meses mediante una ruta flexible que permita ofrecer servicios diferenciados según las características y necesidades de los participantes. La implementación combinará la articulación institucional, la caracterización de jóvenes, la orientación laboral, el fortalecimiento de competencias y la conexión con oportunidades de empleo.
-
-El seguimiento continuo permitirá documentar la participación, los servicios prestados, las gestiones de intermediación, las dificultades operativas y los ajustes realizados durante el piloto.
-
-## 7. Seguimiento y evaluación
-
-El seguimiento se orientará a revisar el avance de las actividades, los productos entregados, la participación de los jóvenes, los servicios prestados y las gestiones de intermediación laboral. La información recopilada permitirá valorar la pertinencia y viabilidad de la ruta, identificar oportunidades de mejora y formular recomendaciones de continuidad.
-
-## 8. Supuestos y consideraciones
-
-San Gabriel es un municipio ficticio utilizado para el ejercicio académico.
-
-Los resultados previstos corresponden a expectativas de la formulación y no a resultados ya alcanzados.
-
-La participación en la ruta no garantiza la contratación laboral de todos los jóvenes.
-
-Las metas cuantitativas, los indicadores, el cronograma detallado y los costos deben corresponder a la versión aprobada del Project Model Canvas y a los requisitos de la convocatoria simulada SG-05.
-
-## 9. Documentos de referencia
-
-[Diagnóstico validado de San Gabriel](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/blob/main/01_Formulacion/PJtra001_Validacion_geografica_poblacional_documental_San_Gabriel.pdf)
-
-[Caracterización Laboral y de Oportunidades para Jovenes](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/blob/main/01_Formulacion/PJtra001_Caracterizaci%C3%B3n%20laboral.pdf)
-
-[Project Model Canvas 1.0 aprobado](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/blob/main/01_Formulacion/PJtra001_Project_Model_Canvas_San_Gabriel_aprobado.pdf)
-
-[Infome descriptivo](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/blob/main/01_Formulacion/PJtra001_SG03_HD02_Informe_descriptivo.pdf)
-
-[Ficha de preparación](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/blob/main/01_Formulacion/SG_PJtra001_Ficha_GitHub.pdf)
