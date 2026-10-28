@@ -7,7 +7,6 @@
 - Libro de tablas y gráficos
 - Matriz de evidencias del diagnóstico 
 - Ficha de fuentes documentales 
-- Dataset complementario verificado
 - Validación geográfica, poblacional y documental
 
 ## Entregables de asistentes y formulación — Parte 
