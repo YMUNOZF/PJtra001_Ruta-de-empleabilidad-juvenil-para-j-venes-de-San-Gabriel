@@ -24,7 +24,25 @@ La matriz es un instrumento de seguimiento: registrar un entregable como esperad
 
 **Importante:** “Pendiente de registrar evidencia y verificar el entregable” es el estado inicial de esta matriz; no significa que el producto no exista en otro lugar. Actualiza cada fila después de revisar el Issue y los archivos disponibles.
 
-## 2. ¿Qué debe guardarse como evidencia?
+## 2. Entregables de ejemplo (simulados)
+
+Se incorporaron muestras de trabajo para ilustrar el tipo de producto que podría generarse en cada actividad. **Son simulaciones académicas, no evidencias de ejecución real, aprobaciones, acuerdos, vacantes ni resultados del proyecto.** Deben revisarse y adaptarse a la formulación aprobada antes de utilizarlas como productos finales.
+
+| Actividad | Ejemplo disponible |
+|---|---|
+| ACT-01 | [Mapa de aliados de formación y empleo](ACT-01/mapa_aliados_simulado.md) |
+| ACT-02 | [Protocolo de ingreso y rutas diferenciadas](ACT-02/protocolo_ingreso_y_rutas_simulado.md) |
+| ACT-03 | [Instrumentos de seguimiento e indicadores](ACT-03/instrumentos_seguimiento_simulados.md) |
+| ACT-04 | [Convocatoria y plan de difusión](ACT-04/convocatoria_simulada.md) |
+| ACT-05 | [Caracterización y asignación de servicios](ACT-05/caracterizacion_y_asignacion_simulada.md) |
+| ACT-06 | [Guía de orientación laboral](ACT-06/guia_orientacion_laboral_simulada.md) |
+| ACT-07 | [Plan de formación](ACT-07/plan_formacion_simulado.md) |
+| ACT-08 | [Registro de oportunidades y empleadores](ACT-08/registro_oportunidades_empleadores_simulado.md) |
+| ACT-09 | [Registro de postulaciones y remisiones](ACT-09/registro_postulaciones_remisiones_simulado.md) |
+| ACT-10 | [Tablero de seguimiento y riesgos](ACT-10/tablero_seguimiento_simulado.md) |
+| ACT-11 | [Informe ilustrativo de evaluación](ACT-11/informe_evaluacion_simulado.md) |
+
+## 3. ¿Qué debe guardarse como evidencia?
 
 Conserva el archivo o soporte que permita verificar el trabajo realizado. Según la actividad, puede tratarse de:
 
@@ -42,7 +60,7 @@ Conserva el archivo o soporte que permita verificar el trabajo realizado. Según
 
 Esta lista es orientativa: guarda solo soportes pertinentes que efectivamente existan y estén autorizados para compartirse.
 
-## 3. Organización recomendada de los archivos
+## 4. Organización de los archivos
 
 Para facilitar la consulta, se propone organizar las evidencias por código de actividad:
 
@@ -62,11 +80,11 @@ Para facilitar la consulta, se propone organizar las evidencias por código de a
 └── ACT-11/
 ```
 
-Esta es una **estructura recomendada**, no una descripción de carpetas que ya estén creadas. Crea cada carpeta cuando vayas a incorporar un soporte real; evita agregar archivos vacíos o evidencias inventadas.
+Las subcarpetas ACT-01 a ACT-11 contienen actualmente los ejemplos simulados enlazados arriba. Se pueden agregar soportes reales validados en las carpetas correspondientes, manteniendo claramente separados los ejemplos y las evidencias de ejecución.
 
 Cuando sea pertinente, usa nombres de archivo consistentes, por ejemplo: `ACT-03_Matriz-indicadores_v1_2026-10-27.xlsx`. Ajusta el tipo de archivo y la fecha a la evidencia real, y no uses fechas o versiones ficticias.
 
-## 4. Criterios para validar una evidencia
+## 5. Criterios para validar una evidencia
 
 Antes de marcar un entregable como verificado, comprueba que:
 
@@ -81,11 +99,11 @@ Antes de marcar un entregable como verificado, comprueba que:
 
 El estado del Issue, por sí solo, no demuestra que el entregable exista o haya sido verificado.
 
-## 5. Protección de datos
+## 6. Protección de datos
 
 Este repositorio es público. No publiques fichas con nombres, documentos de identidad, datos de contacto, información sensible ni registros individualizados de participantes. Usa versiones anonimizadas o agregadas cuando sean suficientes para demostrar el trabajo. Los documentos reservados deben mantenerse en un espacio autorizado con controles de acceso adecuados; el Issue puede incluir una referencia no sensible si es necesario dejar trazabilidad.
 
-## 6. Relación con otros documentos
+## 7. Relación con otros documentos
 
 - [README principal](../README.md)
 - [Formulación del proyecto](../01_Formulacion/README.md)
