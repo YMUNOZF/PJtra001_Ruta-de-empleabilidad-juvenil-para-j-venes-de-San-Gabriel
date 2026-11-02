@@ -23,7 +23,6 @@ Implementar durante 24 meses una ruta piloto de empleabilidad para jóvenes de 1
 
 | Recurso | Para qué sirve |
 |---|---|
-| [Documentación de actividades](03_Seguimiento/DOCUMENTACION_ACTIVIDADES.md) | Descripción consolidada de ACT-01 a ACT-11, responsables, entregables, dependencias y criterios de cierre. |
 | [Formulación del proyecto](01_Formulacion/README.md) | Problema identificado, objetivo, población objetivo, componentes, resultados esperados y documentos de referencia. |
 | [Entregables por actividad](02_Evidencias/README.md) | Matriz de entregables con enlaces a los Issues de GitHub asociados. |
 | [Evidencias](02_Evidencias/) | Productos y soportes autorizados que existan para las actividades. |
