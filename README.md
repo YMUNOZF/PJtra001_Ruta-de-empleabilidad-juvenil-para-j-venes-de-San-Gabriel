@@ -26,7 +26,7 @@ Implementar durante 24 meses una ruta piloto de empleabilidad para jóvenes de 1
 | [Formulación del proyecto](01_Formulacion/README.md) | Problema identificado, objetivo, población objetivo, componentes, resultados esperados y documentos de referencia. |
 | [Entregables por actividad](02_Evidencias/README.md) | Matriz de entregables con enlaces a los Issues de GitHub asociados. |
 | [Evidencias](02_Evidencias/) | Productos y soportes autorizados que existan para las actividades. |
-| [Seguimiento](03_Seguimiento/) | Registro de decisiones, riesgos, ajustes y reportes de avance. |
+| [Seguimiento](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/blob/main/03_Seguimiento/Decisiones.md) | Registro de decisiones, riesgos, ajustes y reportes de avance. |
 
 ## Gestión de actividades
 
