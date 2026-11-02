@@ -36,6 +36,7 @@ Se incorporaron muestras de trabajo para ilustrar el tipo de producto que podrí
 | ACT-04 | [Convocatoria y plan de difusión](ACT-04/convocatoria_simulada.md) |
 | ACT-05 | [Caracterización y asignación de servicios](ACT-05/caracterizacion_y_asignacion_simulada.md) |
 | ACT-06 | [Guía de orientación laboral](ACT-06/guia_orientacion_laboral_simulada.md) |
+| ACT-06 | [Registro de sesiones de orientación ocupacional, laboral](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/blob/main/02_Evidencias/ACT-06/ACT-06_Registros_orientacion_simulada.pdf) |
 | ACT-07 | [Plan de formación](ACT-07/plan_formacion_simulado.md) |
 | ACT-08 | [Registro de oportunidades y empleadores](ACT-08/registro_oportunidades_empleadores_simulado.md) |
 | ACT-09 | [Registro de postulaciones y remisiones](ACT-09/registro_postulaciones_remisiones_simulado.md) |
