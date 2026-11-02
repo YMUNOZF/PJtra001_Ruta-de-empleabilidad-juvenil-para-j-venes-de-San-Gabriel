@@ -32,7 +32,7 @@ Implementar durante 24 meses una ruta piloto de empleabilidad para jóvenes de 1
 
 Cada actividad se gestiona mediante un **Issue de GitHub** y puede visualizarse en GitHub Projects. Los Issues registran la descripción, responsable funcional, prioridad, dependencias, entregable esperado, avances y criterio de cierre.
 
-Para consultar todas las actividades, empieza por la [matriz de entregables y enlaces a los Issues](02_Evidencias/README.md) o por la [documentación consolidada de actividades](03_Seguimiento/DOCUMENTACION_ACTIVIDADES.md).
+Para consultar todas las actividades, empieza por la [matriz de entregables y enlaces a los Issues](02_Evidencias/README.md) o por la [documentación consolidada de actividades]([03_Seguimiento/DOCUMENTACION_ACTIVIDADES.md](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/tree/main/02_Evidencias).
 
 ### Criterio de cierre
 
