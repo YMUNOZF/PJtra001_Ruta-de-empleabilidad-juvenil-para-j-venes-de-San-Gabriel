@@ -22,8 +22,6 @@ La matriz es un instrumento de seguimiento: registrar un entregable como esperad
 | [ACT-10 — Monitorear avances, riesgos y ajustes del piloto](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/issues/12) | Jazmín Prieto Solano | Reportes de seguimiento | Pendiente de registrar evidencia y verificar el entregable. |
 | [ACT-11 — Evaluar resultados y definir recomendaciones de continuidad](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/issues/13) | Yency Muñoz Foronda | Informe final y recomendaciones | Pendiente de registrar evidencia y verificar el entregable. |
 
-**Importante:** “Pendiente de registrar evidencia y verificar el entregable” es el estado inicial de esta matriz; no significa que el producto no exista en otro lugar. Actualiza cada fila después de revisar el Issue y los archivos disponibles.
-
 ## 2. Entregables de ejemplo (simulados)
 
 Se incorporaron muestras de trabajo para ilustrar el tipo de producto que podría generarse en cada actividad. **Son simulaciones académicas, no evidencias de ejecución real, aprobaciones, acuerdos, vacantes ni resultados del proyecto.** Deben revisarse y adaptarse a la formulación aprobada antes de utilizarlas como productos finales.
@@ -31,6 +29,7 @@ Se incorporaron muestras de trabajo para ilustrar el tipo de producto que podrí
 | Actividad | Ejemplo disponible |
 |---|---|
 | ACT-01 | [Mapa de aliados de formación y empleo](ACT-01/mapa_aliados_simulado.md) |
+| ACT-01 | [Registro de gestiones](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/blob/main/02_Evidencias/ACT-01/ACT-01_Registro_gestiones_aliados_simuladas.pdf) |
 | ACT-02 | [Protocolo de ingreso y rutas diferenciadas](ACT-02/protocolo_ingreso_y_rutas_simulado.md) |
 | ACT-03 | [Instrumentos de seguimiento e indicadores](ACT-03/instrumentos_seguimiento_simulados.md) |
 | ACT-04 | [Convocatoria y plan de difusión](ACT-04/convocatoria_simulada.md) |
