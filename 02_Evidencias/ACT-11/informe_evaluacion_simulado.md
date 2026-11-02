@@ -43,5 +43,35 @@ Supuesto de prueba: 15 inscripciones validadas, 12 caracterizaciones completas, 
 - Recomendación:
 - Responsable y plazo:
 
+## 8. Balance de resultados de la ejecución simulada
+
+A partir de las evidencias elaboradas durante el ejercicio académico, se identifican avances en la estructuración de la ruta de empleabilidad juvenil, incluyendo la identificación de aliados, la definición de criterios de ingreso, la caracterización de participantes, la orientación ocupacional, la formación y la identificación de oportunidades laborales.
+
+Los registros ficticios permiten ilustrar diferentes etapas de atención. Se documentaron 15 inscripciones validadas y 12 caracterizaciones completas. En el componente formativo, el registro complementario de la ACT-07 contempla 12 personas inscritas, 10 participantes que iniciaron formación y 8 que la finalizaron.
+
+Estos resultados corresponden exclusivamente a una simulación académica y no representan la cobertura real del proyecto ni permiten establecer efectos sobre la empleabilidad juvenil.
+
+La valoración del cumplimiento de metas se limita al ejercicio de seguimiento y documentación, dado que no se dispone de información de implementación real para evaluar el cumplimiento de la meta poblacional del proyecto.
+
+## 9. Lecciones aprendidas
+
+La articulación con aliados y empleadores requiere documentar los acercamientos, sus resultados y los compromisos, incluso en ejercicios simulados.
+
+La caracterización inicial facilita la asignación de rutas diferenciadas según las necesidades de los participantes.
+
+Es importante mantener coherencia entre los registros de inscripción, orientación, formación y remisiones, evitando duplicidades.
+
+El seguimiento debe registrar no solamente actividades realizadas, sino también incidencias, decisiones y ajustes.
+
+La protección de datos personales y la verificación de oportunidades laborales deben incorporarse durante todo el proceso.
+
+## 10. Conclusiones y recomendaciones finales
+
+El ejercicio académico permitió estructurar y documentar una ruta de empleabilidad juvenil, incorporando instrumentos de planificación, registros de atención, mecanismos de seguimiento y criterios de evaluación.
+
+Se recomienda fortalecer la trazabilidad entre actividades, consolidar un sistema único de indicadores, documentar los resultados de las remisiones laborales y establecer mecanismos periódicos de revisión de riesgos y ajustes.
+
+Para una eventual implementación real, será necesario validar la disponibilidad de aliados, la pertinencia de la oferta formativa, las oportunidades laborales y los recursos requeridos para garantizar la continuidad del proyecto.
+
 ## Criterio de cierre
 El informe real debe contrastar los resultados con la formulación aprobada, anexar fuentes verificables, diferenciar productos de resultados y ser revisado por el equipo. No completar conclusiones con datos simulados.
