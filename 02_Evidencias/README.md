@@ -38,7 +38,9 @@ Se incorporaron muestras de trabajo para ilustrar el tipo de producto que podrí
 | ACT-06 | [Guía de orientación laboral](ACT-06/guia_orientacion_laboral_simulada.md) |
 | ACT-06 | [Registro de sesiones de orientación ocupacional, laboral](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/blob/main/02_Evidencias/ACT-06/ACT-06_Registros_orientacion_simulada.pdf) |
 | ACT-07 | [Plan de formación](ACT-07/plan_formacion_simulado.md) |
+| ACT-07 | [Registro de formaciones y evaluación de aprendizajes](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/blob/main/02_Evidencias/ACT-07/ACT-07_Registro_formacion_evaluacion_simulada.pdf) |
 | ACT-08 | [Registro de oportunidades y empleadores](ACT-08/registro_oportunidades_empleadores_simulado.md) |
+| ACT-08 | [Registro de articulación con empleadores](https://github.com/YMUNOZF/PJtra001_Ruta-de-empleabilidad-juvenil-para-j-venes-de-San-Gabriel/blob/main/02_Evidencias/ACT-08/ACT-08_Gestiones_empleadores_simuladas.pdf) |
 | ACT-09 | [Registro de postulaciones y remisiones](ACT-09/registro_postulaciones_remisiones_simulado.md) |
 | ACT-10 | [Tablero de seguimiento y riesgos](ACT-10/tablero_seguimiento_simulado.md) |
 | ACT-11 | [Informe ilustrativo de evaluación](ACT-11/informe_evaluacion_simulado.md) |
