@@ -29,7 +29,7 @@ Este registro documenta los principales acuerdos y decisiones del equipo durante
 ## DEC-04 | Revisión de acciones e Issues
 
 - **Acuerdo:** Revisar las acciones propuestas, su coherencia con los objetivos del proyecto y la organización de los Issues en GitHub, verificando las descripciones, responsables, prioridades y criterios de finalización.
-- **Responsables:** Jazmín Prieto Solano y Daniela Sierra.
+- **Responsables:** Jazmín Prieto Solano y Gennifer Sierra.
 - **Estado:** Asignado.
 - **Relación:** Plan de acción y GitHub Issues.
 
