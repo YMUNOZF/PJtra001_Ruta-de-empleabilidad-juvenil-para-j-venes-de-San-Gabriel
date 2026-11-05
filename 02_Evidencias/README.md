@@ -6,6 +6,10 @@ La matriz es un instrumento de seguimiento: registrar un entregable como esperad
 
 > **Nota sobre el ejercicio académico:** San Gabriel es un municipio ficticio. Las actividades, registros o resultados simulados deben identificarse expresamente como simulados y no presentarse como hechos reales.
 
+## Tablero de seguimiento del proyecto
+
+Consulta el [tablero de GitHub Projects — PJtra001_Conecta Joven | Gestión y Seguimiento](https://github.com/users/YMUNOZF/projects/1/views/1) para revisar los estados y avances de las actividades.
+
 ## 1. Matriz de entregables
 
 | Código / actividad | Responsable funcional | Entregable esperado | Seguimiento |
