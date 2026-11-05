@@ -5,7 +5,7 @@
 ## Borrador de mensaje de convocatoria
 **Conecta Joven: oportunidades para el empleo**
 
-¿Tienes entre 18 y 28 años y quieres fortalecer tus herramientas para buscar empleo? El piloto EmpleaJoven San Gabriel propone una ruta de orientación ocupacional, desarrollo de competencias y conexión con oportunidades de formación y empleo.
+¿Tienes entre 18 y 28 años y quieres fortalecer tus herramientas para buscar empleo? El piloto Conecta Joven: oportunidades para el empleo propone una ruta de orientación ocupacional, desarrollo de competencias y conexión con oportunidades de formación y empleo.
 
 La participación y los servicios disponibles se confirmarían después de la validación institucional. Participar no garantiza una contratación laboral.
 
