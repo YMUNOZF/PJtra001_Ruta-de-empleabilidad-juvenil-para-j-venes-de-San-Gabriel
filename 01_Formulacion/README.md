@@ -53,11 +53,15 @@ El seguimiento debe permitir revisar el avance de las actividades, la producció
 
 La participación en la ruta no garantiza que todas las personas participantes obtengan empleo. Las metas cuantitativas, los indicadores, el cronograma detallado y los costos deben verificarse en los documentos aprobados y en los requisitos de la convocatoria simulada SG-05; no deben completarse con supuestos.
 
+Para mantener una sola referencia de cálculo, consultar la [matriz central de indicadores](../03_Seguimiento/Matriz_Indicadores.md). El detalle de las actividades, sus dependencias y criterios de cierre está en la [documentación consolidada de actividades](../03_Seguimiento/DOCUMENTACION_ACTIVIDADES.md).
+
 ## 6. Relación con el resto del repositorio
 
 - [Página principal del proyecto](../README.md): visión general, alcance y responsabilidades del equipo.
 - [Documentación de actividades](../03_Seguimiento/DOCUMENTACION_ACTIVIDADES.md): descripción de ACT-01 a ACT-11, dependencias y criterios de cierre.
+- [Matriz central de indicadores](../03_Seguimiento/Matriz_Indicadores.md): definiciones operativas, fuentes y reglas de cálculo.
 - [Entregables y evidencias](../02_Evidencias/README.md): matriz de productos esperados y enlaces a los Issues.
+- [Tablero de GitHub Projects](https://github.com/users/YMUNOZF/projects/1/views/1): estados, responsables y fechas de seguimiento.
 - [Seguimiento](../03_Seguimiento/): decisiones, riesgos, ajustes y reportes de avance.
 
 ## 7. Control y uso de documentos
@@ -66,4 +70,3 @@ La participación en la ruta no garantiza que todas las personas participantes o
 - No reemplazar documentos aprobados sin comprobar los cambios y conservar la trazabilidad de versiones.
 - Diferenciar claramente la formulación, los resultados esperados y los resultados efectivamente verificados.
 - No publicar información personal identificable ni documentos reservados en el repositorio público.
-
